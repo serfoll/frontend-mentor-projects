@@ -1,3 +1,7 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/serfoll/interactive-rating-component.git
+
+[submodule "advice-generator-app"]
+	path = advice-generator-app
+	url = https://github.com/serfoll/advice-generator-app.git
