@@ -1,0 +1,3 @@
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/serfoll/interactive-rating-component.git
